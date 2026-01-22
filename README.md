@@ -130,6 +130,7 @@ zabbix 2
 
 Для отображения RAM utilization использован calculated item из собственного шаблона.
 
+![.](https://github.com/mkzinovev/mkzinovyev-hw-03.md/blob/main/screenshots/Задание_4_dashboards.png)
 
  ---
 
