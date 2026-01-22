@@ -60,7 +60,7 @@ zabbix 2
 ### Задание 1
 
 `Приведите ответ в свободной форме........`
-![Uploading image.png…]()
+![alt text](https://github.com/mkzinovev/mkzinovyev-hw-03.md/blob/main/screenshots/Задание_1_items.png)
 
 ```
 Поле для вставки кода...
