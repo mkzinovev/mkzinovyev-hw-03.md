@@ -135,9 +135,12 @@ zabbix 2
 
 В рамках задания была создана карта сети в Zabbix с отображением двух хостов:
 ![.](https://github.com/mkzinovev/mkzinovyev-hw-03.md/blob/main/screenshots/Задание_5_map.png)
+```bash
 zinovyevmk-1
+```
+```bash
 zinovyevmk-2
-
+```
 Ход выполнения
 
 В разделе Monitoring → Maps была создана карта Zinovyev Hosts Map.
@@ -149,9 +152,9 @@ zinovyevmk-2
 К линку привязан индикатор состояния, основанный на триггере хоста zinovyevmk-2.
 
 В качестве индикатора использован триггер:
-
+```bash
 FS [(Z:)]: Space is critically low
-
+```
 
 Для сработавшего триггера настроено визуальное отображение линка в виде красной пунктирной линии.
 
